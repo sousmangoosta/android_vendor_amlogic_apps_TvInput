@@ -27,6 +27,7 @@ LOCAL_C_INCLUDES := \
   external/skia/include\
   external/skia/include/core \
   external/skia/include/config \
+  external/skia/include/config/android \
   libnativehelper/include_jni \
   frameworks/native/include
 
